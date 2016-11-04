@@ -1,0 +1,11 @@
+.ButtonWidth {
+  min-width: 250px !important;
+}
+
+.vertical-align-content > * {
+  display: flex!important;
+  align-content: center!important;
+  align-items: center!important;
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}
