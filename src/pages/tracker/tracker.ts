@@ -91,7 +91,7 @@ export class TrackerPage {
         sourceLocation,
         destLocation
       ],
-      googledesic: true,
+      geodesic: true,
       color: '#e74c3c',
       width: 2
     };
